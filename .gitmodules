@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "affylmGUI"]
 	path = affylmGUI
 	url = https://git.bioconductor.org/packages/affylmGUI
-	shallow = true
-	registered = true
 [submodule "dglm"]
 	path = dglm
 	url = https://github.com/cran/dglm
-	shallow = true
-	registered = true
 [submodule "limma"]
 	path = limma
 	url = https://git.bioconductor.org/packages/limma
-	shallow = true
-	registered = true
 [submodule "limmaGUI"]
 	path = limmaGUI
 	url = https://git.bioconductor.org/packages/limmaGUI
-	shallow = true
-	registered = true
 [submodule "statmod"]
 	path = statmod
 	url = https://github.com/cran/statmod
-	shallow = true
-	registered = true
