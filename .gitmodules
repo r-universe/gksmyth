@@ -2,18 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "affylmGUI"]
-	path = affylmGUI
-	url = https://git.bioconductor.org/packages/affylmGUI
 [submodule "dglm"]
 	path = dglm
 	url = https://github.com/cran/dglm
-[submodule "limma"]
-	path = limma
-	url = https://git.bioconductor.org/packages/limma
-[submodule "limmaGUI"]
-	path = limmaGUI
-	url = https://git.bioconductor.org/packages/limmaGUI
 [submodule "statmod"]
 	path = statmod
 	url = https://github.com/cran/statmod
